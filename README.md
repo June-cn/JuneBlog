@@ -1,2 +1,2 @@
-# JuneBlog
-myBlog
+# myApp
+myApp
